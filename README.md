@@ -30,10 +30,9 @@ opencv-python
 mediapipe
 pydirectinput
 2. Buat file README.md
-Ini adalah halaman depan dari repository GitHub-mu. Buat file README.md dan kamu bisa copy-paste template di bawah ini. Kamu bisa memasukkan identitas atau branding kamu (seperti Ikhwan Gadget) di sini:
 
 Markdown
-# Roblox Hand Controller AI 🎮✋
+# Roblox Hand Controller 🎮✋
 
 Project ini adalah skrip Python yang menggunakan *Computer Vision* untuk mengontrol pergerakan karakter di game Roblox menggunakan gestur jari tangan. Dibuat menggunakan OpenCV dan MediaPipe.
 
